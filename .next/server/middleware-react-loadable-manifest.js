@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"experiment1.js -> ../components/Warp":{"id":"experiment1.js -> ../components/Warp","files":["static/chunks/components_Warp_jsx.js"]}}
